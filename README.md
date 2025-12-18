@@ -7,7 +7,7 @@ Github Commands
 Here is a **clear, beginner-friendly list of essential GitHub (Git) commands**, from **basic → advanced**, with **simple explanations** and examples.
 
 ---
-
+~ -> Root directory
 # 🔧 GitHub / Git Commands Cheat Sheet
 
 > **Git** = version control tool
