@@ -47,7 +47,7 @@ git init
 ```
 
 ### Clone existing repo
-
+CLone -: Cloning the repo on our Local Machine
 ```bash
 git clone https://github.com/username/repo-name.git
 ```
